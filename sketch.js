@@ -60,7 +60,7 @@ function draw() {
   Engine.update(engine);
 
   fill("#00FFFF")
-  textSize(70);
+  textSize(40);
   textFont("Savoye LET");
   text("Drag and release the polygon to hit lego blocks.",300,60);
 
