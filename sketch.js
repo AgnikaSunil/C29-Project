@@ -62,7 +62,7 @@ function draw() {
   fill("#00FFFF")
   textSize(70);
   textFont("Savoye LET");
-  text("Launch the polygon to hit lego blocks.",400,60);
+  text("Drag and release the polygon to hit lego blocks.",300,60);
 
   platform1.display();
   ground.display();
